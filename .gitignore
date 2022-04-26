@@ -1,0 +1,4 @@
+node_modules/
+wasm-processor/.idea
+large_data.json
+smol_data.json
